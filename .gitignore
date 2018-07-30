@@ -1,0 +1,8 @@
+# InteliJ IDEA
+*.iml
+.idea
+
+# nodejs
+/logs/
+/package-lock.json
+/node_modules/

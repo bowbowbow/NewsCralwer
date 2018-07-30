@@ -1,0 +1,25 @@
+- hosts: web
+  remote_user: ubuntu
+
+  vars:
+      dest: /home/ubuntu/crawler
+
+  tasks:
+    - name: deploy code
+      git: repo=https://bowbowbow:dbs3121581@github.com/bowbowbow/crawler.git
+           dest={{dest}}
+           force=yes
+           update=yes
+
+    - name: npm install on node
+      shell: chdir="{{dest}}" sudo npm install --unsafe-perm=true --allow-root
+
+    - name: forever stop on node
+      shell: chdir="{{dest}}" forever stopall
+
+    - name: forever start getReuterLink
+      shell: chdir="{{dest}}/script" NODE_ENV=production NODE_ENV=production forever start getReuterLink.js
+
+    - name: forever start getArticle
+      shell: chdir="{{dest}}/script" NODE_ENV=production NODE_ENV=production forever start getArticle.js
+
