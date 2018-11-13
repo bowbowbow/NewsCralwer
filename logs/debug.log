@@ -1,0 +1,260 @@
+2018-07-19 13:19:39 [32minfo[39m: Database connection has disconnected.
+2018-07-19 13:19:39 [31merror[39m: Failed to get connection in mongoose, err is 
+2018-07-19 13:28:16 [32minfo[39m: Application process is going down, disconnect database connection...
+2018-07-19 13:34:58 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-19 13:35:00 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:35:12 [32minfo[39m: Database connection has disconnected.
+2018-07-19 13:35:36 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-19 13:36:04 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:06 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-19 13:53:07 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:09 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:10 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:11 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:12 [31merror[39m: undefined
+2018-07-19 13:53:12 [31merror[39m: undefined
+2018-07-19 13:53:13 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:14 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:15 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:16 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:17 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:17 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:19 [31merror[39m: undefined
+2018-07-19 13:53:19 [31merror[39m: undefined
+2018-07-19 13:53:20 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:22 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:23 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:24 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:26 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:27 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:28 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:29 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:29 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:30 [31merror[39m: undefined
+2018-07-19 13:53:30 [31merror[39m: undefined
+2018-07-19 13:53:32 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:32 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:33 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:34 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:36 [31merror[39m: undefined
+2018-07-19 13:53:36 [31merror[39m: undefined
+2018-07-19 13:53:37 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:38 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:39 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:40 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:41 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:41 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:42 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:43 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:44 [31merror[39m: undefined
+2018-07-19 13:53:44 [31merror[39m: undefined
+2018-07-19 13:53:46 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:47 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:48 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:49 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:50 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:53:51 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:54:22 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:54:23 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:54:24 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:54:55 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:54:57 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:54:59 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:55:00 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:55:01 [31merror[39m: undefined
+2018-07-19 13:55:01 [31merror[39m: undefined
+2018-07-19 13:55:02 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:55:03 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:55:04 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:55:36 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:55:36 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:07 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:08 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:09 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:10 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:11 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:11 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:12 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:13 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:14 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:15 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:16 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:17 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:18 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:19 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:20 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:21 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:51 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:53 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:54 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:55 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:56 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:57 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:58 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:56:59 [31merror[39m: undefined
+2018-07-19 13:56:59 [31merror[39m: undefined
+2018-07-19 13:56:59 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:57:00 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:57:01 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:57:02 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:57:02 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:57:03 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:57:34 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:06 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:07 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:08 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:09 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:09 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:10 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:11 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:12 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:13 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:15 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:16 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:16 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:17 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:18 [31merror[39m: undefined
+2018-07-19 13:58:18 [31merror[39m: undefined
+2018-07-19 13:58:50 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:50 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:52 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:52 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:53 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:54 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:56 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:57 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:58 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:58 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:58:59 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:00 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:01 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:08 [32minfo[39m: Database connection has disconnected.
+2018-07-19 13:59:10 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-19 13:59:12 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:13 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:15 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:16 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:17 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:18 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:20 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:21 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:22 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:23 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:24 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:25 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:26 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:26 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:28 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:28 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:30 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:31 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:33 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:34 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:35 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:36 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:38 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:38 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:39 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:40 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:40 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:41 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:42 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:43 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:44 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:45 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:46 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:47 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 13:59:48 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:20 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:20 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:21 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:22 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:23 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:24 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:24 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:25 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:27 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:27 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:58 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:00:59 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:01:01 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:01:02 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:01:03 [31merror[39m: undefined
+2018-07-19 14:01:03 [31merror[39m: undefined
+2018-07-19 14:01:04 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:01:05 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:01:09 [32minfo[39m: Database connection has disconnected.
+2018-07-19 14:02:28 [31merror[39m: undefined
+2018-07-19 14:03:19 [31merror[39m: undefined
+2018-07-19 14:07:00 [31merror[39m: undefined
+2018-07-19 14:11:06 [31merror[39m: undefined
+2018-07-19 14:11:24 [31merror[39m: undefined
+2018-07-19 14:12:10 [31merror[39m: undefined
+2018-07-19 14:14:26 [31merror[39m: undefined
+2018-07-19 14:15:27 [31merror[39m: undefined
+2018-07-19 14:21:43 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-19 14:22:15 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:16 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:17 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:19 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:20 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:21 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:22 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:54 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:54 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:55 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:57 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:59 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:22:59 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:23:00 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:23:31 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:23:32 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:23:34 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:23:35 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:24:07 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:24:08 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:24:08 [32minfo[39m: getArticle(Reuters) is finished
+2018-07-19 14:24:24 [32minfo[39m: Database connection has disconnected.
+2018-07-19 14:24:26 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-19 14:24:27 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/slovenia-nlb/slovenia-plans-to-sell-at-least-50-pct-of-bank-nlb-this-year-idUKL8N1U94JF)
+2018-07-19 14:24:28 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/uk-film-downtonabbey/acclaimed-downton-abbey-tv-series-to-be-turned-into-a-movie-idUKKBN1K3288)
+2018-07-19 14:24:29 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/us-film-downtonabbey/acclaimed-downton-abbey-tv-series-to-be-turned-into-a-movie-idUKKBN1K328G)
+2018-07-19 14:24:29 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/us-usa-stocks-weekahead/trade-policy-uncertainty-could-bolster-u-s-defensive-stock-sectors-idUKKBN1K31J6)
+2018-07-19 14:24:30 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/us-kenya-uber/kenya-uber-to-keep-fares-unchanged-for-now-following-drivers-strike-idUKKBN1K3280)
+2018-07-19 14:24:31 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/film-downtonabbey/acclaimed-downton-abbey-tv-series-to-be-turned-into-a-movie-idUKL8N1U93ZI)
+2018-07-19 14:25:03 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/global-lng/global-lng-spot-prices-decline-as-deals-emerge-idUKL8N1U94I6)
+2018-07-19 14:25:03 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/kenya-uber/kenya-uber-to-keep-fares-unchanged-for-now-following-drivers-strike-idUKL8N1U947S)
+2018-07-19 14:25:04 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/us-usa-economy/u-s-import-prices-post-biggest-drop-in-over-two-years-idUKKBN1K31RN)
+2018-07-19 14:25:05 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/usa-economy-inflation/update-2-u-s-import-prices-post-biggest-drop-in-over-two-years-idUKL1N1U81KS)
+2018-07-19 14:25:06 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/alstom-ma-siemens-eu/eu-antitrust-regulators-to-investigate-siemens-alstom-rail-merger-idUKL8N1U94GA)
+2018-07-19 14:25:37 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/us-le-com-results/chinas-leshi-sees-wider-first-half-net-losses-as-business-falters-idUKKBN1K326T)
+2018-07-19 14:25:40 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/soccer-worldcup-final/factbox-soccer-france-v-croatia-factbox-idUKL8N1U81A7)
+2018-07-19 14:25:41 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/soccer-worldcup-bel-eng/soccer-england-not-a-top-five-team-yet-says-southgate-idUKL8N1U94EK)
+2018-07-19 14:25:43 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/uk-soccer-worldcup-final-factbox/factbox-soccer-france-v-croatia-idUKKBN1K3267)
+2018-07-19 14:25:44 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/uk-soccer-worldcup-final-preview/will-to-trump-skill-in-world-cups-ultimate-character-test-idUKKBN1K3263)
+2018-07-19 14:25:45 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/uk-soccer-worldcup-final/list-of-previous-world-cup-finals-idUKKBN1K326K)
+2018-07-19 14:25:46 [32minfo[39m: getArticle(Reuters) is finished(http://UK.reuters.com/article/lecom-results/chinas-leshi-sees-wider-h1-net-losses-as-business-falters-idUKL4N1U94US)
+2018-07-19 14:25:47 [32minfo[39m: Database connection has disconnected.
+2018-07-19 19:00:47 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-19 19:01:13 [31merror[39m: undefined
+2018-07-19 19:01:23 [32minfo[39m: Database connection has disconnected.
+2018-07-19 19:01:25 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-19 19:02:41 [32minfo[39m: Database connection has disconnected.
+2018-07-19 19:10:53 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-19 19:13:44 [32minfo[39m: Database connection has disconnected.
+2018-07-19 19:13:45 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-19 19:32:53 [32minfo[39m: Database connection has disconnected.
+2018-07-19 19:32:55 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-25 12:45:03 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-25 14:01:06 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-25 14:01:54 [32minfo[39m: Database connection has disconnected.
+2018-07-25 14:01:56 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-25 14:02:01 [32minfo[39m: Database connection has disconnected.
+2018-07-25 14:02:03 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-25 14:02:19 [32minfo[39m: Database connection has disconnected.
+2018-07-25 14:02:21 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-25 14:02:33 [32minfo[39m: Database connection has disconnected.
+2018-07-25 14:02:35 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-25 14:02:59 [32minfo[39m: Database connection has disconnected.
+2018-07-25 14:03:01 [32minfo[39m: [mongodb] succeed to get connection pool
+2018-07-25 15:06:19 [32minfo[39m: Database connection has disconnected.
